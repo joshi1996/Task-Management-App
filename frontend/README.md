@@ -5,10 +5,10 @@
 ### 🔐 Authentication
 | Login | Signup |
 |------|--------|
-| ![Login Screen](frontend/screenshots/Task_App_LogIn.png) | ![Signup Screen](frontend/screenshots/Task_App_SignUp.png) |
+| ![Login Screen](frontend/screenshots/Task_App_LogIn.PNG) | ![Signup Screen](frontend/screenshots/Task_App_SignUp.PNG) |
 
 ### 📋 Task Management
 | Task List | Add Task |
 |----------|----------|
-| ![Task List](frontend/screenshots/Task_App_HomePage.png) | ![Add Task](frontend/screenshots/Task_App_AddNewTaskPage.png) |
+| ![Task List](frontend/screenshots/Task_App_HomePage.PNG) | ![Add Task](frontend/screenshots/Task_App_AddNewTaskPage.PNG) |
 
